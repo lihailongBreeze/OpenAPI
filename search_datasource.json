@@ -1,0 +1,16 @@
+{
+    "name": "Jira",
+    "description": "Jira数据接入飞书搜索",
+    "icon_url": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_0e915ae4-c501-4e3e-ac7f-e0c273d4312g",
+    "schema_id": "jira_search_schema_anycross_demo",
+     "i18n_name": {
+        "zh_cn": "Jira",
+        "en_us": "Jira",
+        "ja_jp": "Jira"
+    },
+    "i18n_description": {
+        "zh_cn": "Jira数据接入飞书搜索",
+        "en_us": "Jira in Feishu Search",
+        "ja_jp": "Jira in Feishu Search"
+    }
+}
